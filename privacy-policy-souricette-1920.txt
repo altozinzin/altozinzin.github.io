@@ -1,0 +1,392 @@
+==============================================================================
+ PRIVACY POLICY - SOURICETTE 1920                       (English version)
+ Version française plus bas dans ce document.
+==============================================================================
+
+Last updated: October 25, 2026
+
+Souricette 1920 ("the Game", "the app") is an Android game published by
+[PUBLISHER NAME] ("we", "us"). This policy explains what information the Game
+processes, why, who receives it, and what choices you have.
+
+Contact (privacy questions, data requests): [CONTACT E-MAIL]
+
+------------------------------------------------------------------------------
+1. SUMMARY
+------------------------------------------------------------------------------
+- No account, no sign-up. We do not ask for your name, e-mail, phone number,
+  contacts, location, photos, microphone or camera.
+- The Game stores your progress on your device (nickname, scores, lives).
+- The Game sends to our server: a random installation ID, your nickname and
+  your scores (see section 3).
+- Unless you buy the unlock, the Game displays ads served by Google AdMob,
+  which may use your advertising ID (see section 4).
+- Purchases are handled entirely by Google Play.
+
+------------------------------------------------------------------------------
+2. DATA STORED ON YOUR DEVICE
+------------------------------------------------------------------------------
+Kept locally (app storage), never leaving your device unless stated in
+section 3:
+- Nickname you type in the menu (max. 14 characters).
+- Best scores (today, this month, all time) and the name tied to your record.
+- Number of lives, time of the next life, time the last ad ended.
+- Purchase status ("game unlocked"), sound on/off setting.
+- A random installation ID (a UUID generated at first launch). It is not
+  linked to your identity, your device ID, your advertising ID or your
+  Google account.
+- Technical flags (e.g. whether the notification permission was requested).
+You can erase all of this by clearing the app's data or uninstalling it.
+If Android's backup is enabled on your device, this data may be saved to
+your Google account by the system (Android Auto Backup) and restored when
+you set up a new device. You control this in your device settings.
+
+------------------------------------------------------------------------------
+3. DATA SENT TO OUR SERVER
+------------------------------------------------------------------------------
+Server: serveurzinzin.hopto.org (operated by us).
+
+a) When a game starts: your random installation ID. Purpose: count how many
+   games are played (statistics, game improvement).
+b) When a game ends: installation ID, nickname, score and highest floor
+   reached. The server keeps, for each installation and each day, your best
+   score of that day (with nickname and floor).
+   Purpose: display the best scores of all players (today, this month, all
+   time).
+c) When the Game Over screen opens: the Game requests the best scores of all
+   players (score and nickname) from the server.
+d) As with any internet request, our server receives your IP address and
+   standard technical information (date/time, request). Server logs are
+   used for security and troubleshooting only.
+
+Important:
+- The NICKNAME AND SCORE of the holders of the best scores (today, this month,
+  all time) are shown publicly to every player. Do not use your real name or any personal information as nickname.
+- Requests to our server are currently sent over HTTP (not encrypted).
+  The data involved is limited (random ID, nickname, score) but could be
+  observed on an untrusted network.
+- We do not use this data for advertising, profiling or automated decisions.
+  We do not sell it.
+- Retention: statistics are kept as long as the Game is operated; records
+  are kept as long as they are displayed or needed for statistics. You may
+  ask for deletion at any time (section 9).
+
+------------------------------------------------------------------------------
+4. ADVERTISING (GOOGLE ADMOB)
+------------------------------------------------------------------------------
+The free version shows two kinds of ads through Google AdMob (Google Mobile
+Ads SDK): an interstitial ad after you lose a life (not more often than every
+2 minutes) and an optional rewarded ad to get an extra life.
+No ads are shown once you have purchased the unlock, and the ads SDK is no
+longer started at launch.
+
+AdMob and Google may collect and use, as independent controller/processor
+as described in their policies: your advertising ID, IP address, device and
+app information (model, OS version, language), ad interaction and diagnostic
+data, to deliver, measure and secure ads and prevent fraud.
+- Consent: where required (EEA, United Kingdom, Switzerland), a consent form
+  (Google User Messaging Platform) is shown at launch. You can change your
+  choice later with the "Privacy settings" button in the main menu when it is
+  displayed.
+- Ad personalization: you can reset your advertising ID or opt out of
+  personalized ads in Android: Settings > Privacy > Ads.
+- More information: https://policies.google.com/technologies/ads and
+  https://policies.google.com/privacy
+
+------------------------------------------------------------------------------
+5. IN-APP PURCHASE (GOOGLE PLAY BILLING)
+------------------------------------------------------------------------------
+The one-time purchase "unlock_souricette" (unlimited lives, no ads) is
+processed by Google Play. We never receive or store your payment details.
+The Game only receives from Google Play the information that the purchase was
+completed (product ID and purchase token) to unlock the game and to restore
+it ("Restore purchases"). See https://policies.google.com/privacy
+
+------------------------------------------------------------------------------
+6. NOTIFICATIONS, VIBRATION AND OTHER DEVICE FEATURES
+------------------------------------------------------------------------------
+- Notifications (Android 13+ asks your permission): local reminders to beat
+  your record, scheduled 1 day, 1 week and 2 weeks after you open the Game
+  (timers restart at each launch). They are generated on your device; no
+  data is sent to create them. They are shown only when your screen is on,
+  so they do not wake you up at night. You can disable them in Android
+  settings > Apps > Souricette 1920 > Notifications.
+- Vibration: haptic feedback when you catch cheese, during the turbo bonus
+  and when you lose. No data is collected. You can disable vibration in your
+  device settings.
+- Network access: required for ads, purchases, statistics and the world
+  record. The Game can be played without a connection, except for these
+  features.
+- Screen: the screen stays on while the Game is in the foreground.
+- The Game does not access your location, contacts, files, photos,
+  microphone, camera or SMS.
+
+------------------------------------------------------------------------------
+7. LEGAL BASES (EEA / UK / SWITZERLAND)
+------------------------------------------------------------------------------
+- Statistics, best scores, security of the server: our legitimate interest
+  in operating and improving the Game (art. 6(1)(f) GDPR).
+- Personalized ads and use of advertising ID: your consent (art. 6(1)(a)),
+  collected through the Google consent form, which you can withdraw at any
+  time.
+- Purchase processing: performance of a contract (art. 6(1)(b)), carried out
+  by Google Play.
+
+------------------------------------------------------------------------------
+8. SHARING AND INTERNATIONAL TRANSFERS
+------------------------------------------------------------------------------
+We do not sell your data. Data is shared only with:
+- Google (AdMob, Google Play Billing, UMP consent): as described above;
+  Google may process data in countries outside your own, under the
+  safeguards described in its policies.
+- Our hosting provider, which hosts the server.
+- Authorities, if required by law.
+Nickname and score of the holders of the best scores are visible to all players.
+
+------------------------------------------------------------------------------
+9. YOUR RIGHTS AND CHOICES
+------------------------------------------------------------------------------
+Depending on your country (GDPR, UK GDPR, Swiss law, CCPA/CPRA, etc.), you
+may have the right to access, correct, delete, restrict or port your data,
+to object to processing, to withdraw consent, and to complain to your data
+protection authority.
+To exercise them, e-mail [CONTACT E-MAIL] and include your nickname and your
+score, so we can find your data. The installation ID is random, is not shown
+in the app and is not linked to your identity: we can therefore only
+identify server-side data through the nickname and score you give us, and we
+cannot identify data we cannot link to you.
+We do not "sell" or "share" personal information as defined by the CCPA.
+Local data can be erased by clearing the app data or uninstalling.
+
+------------------------------------------------------------------------------
+10. CHILDREN
+------------------------------------------------------------------------------
+The Game is not directed to children under 13 (or under 16 where applicable
+under local law), and it is not designed for families. We do not knowingly
+collect personal information from children. If you believe a child has
+provided a nickname or other data, contact us and we will delete it.
+Ads are requested without any child-directed treatment.
+
+------------------------------------------------------------------------------
+11. SECURITY
+------------------------------------------------------------------------------
+We limit the data collected and restrict server access. No transmission or
+storage is 100 % secure; in particular, requests to our server are not yet
+encrypted (see section 3).
+
+------------------------------------------------------------------------------
+12. CHANGES TO THIS POLICY
+------------------------------------------------------------------------------
+We may update this policy, for example when features change. The date at the
+top shows the latest version. Significant changes will be announced in the
+store listing or in the app.
+
+------------------------------------------------------------------------------
+13. CONTACT
+------------------------------------------------------------------------------
+[PUBLISHER NAME]
+[POSTAL ADDRESS - required by the store / GDPR for the data controller]
+[CONTACT E-MAIL]
+
+
+==============================================================================
+ POLITIQUE DE CONFIDENTIALITÉ - SOURICETTE 1920          (version française)
+==============================================================================
+
+Dernière mise à jour : 25 octobre 2026
+
+Souricette 1920 (« le Jeu », « l'application ») est un jeu Android édité par
+[NOM DE L'ÉDITEUR] (« nous »). Cette politique explique quelles informations
+le Jeu traite, pourquoi, qui les reçoit et quels sont vos choix.
+
+Contact (questions, demandes sur vos données) : [E-MAIL DE CONTACT]
+
+------------------------------------------------------------------------------
+1. EN BREF
+------------------------------------------------------------------------------
+- Aucun compte, aucune inscription. Nous ne demandons ni nom, ni e-mail, ni
+  téléphone, ni contacts, ni position, ni photos, ni micro, ni caméra.
+- Le Jeu conserve votre progression sur votre appareil (pseudo, scores, vies).
+- Le Jeu envoie à notre serveur : un identifiant d'installation aléatoire,
+  votre pseudo et vos scores (voir section 3).
+- Sauf si vous achetez le déblocage, le Jeu affiche des publicités Google
+  AdMob, qui peuvent utiliser votre identifiant publicitaire (section 4).
+- Les achats sont entièrement gérés par Google Play.
+
+------------------------------------------------------------------------------
+2. DONNÉES CONSERVÉES SUR VOTRE APPAREIL
+------------------------------------------------------------------------------
+Stockées localement (stockage de l'application), elles ne quittent pas votre
+appareil, sauf cas décrits en section 3 :
+- Pseudo saisi dans le menu (14 caractères max.).
+- Meilleurs scores (du jour, du mois, de tous les temps) et nom associé.
+- Nombre de vies, heure de la prochaine vie, heure de fin de la dernière pub.
+- État de l'achat (« jeu débloqué »), réglage du son.
+- Un identifiant d'installation aléatoire (UUID généré au premier lancement),
+  non lié à votre identité, à l'identifiant de votre appareil, à votre
+  identifiant publicitaire ni à votre compte Google.
+- Indicateurs techniques (ex. : demande de permission de notification déjà
+  faite).
+Vous pouvez tout effacer en vidant les données de l'application ou en la
+désinstallant. Si la sauvegarde Android est activée, ces données peuvent être
+sauvegardées sur votre compte Google par le système (Sauvegarde automatique)
+et restaurées sur un nouvel appareil ; vous la gérez dans les réglages de
+votre appareil.
+
+------------------------------------------------------------------------------
+3. DONNÉES ENVOYÉES À NOTRE SERVEUR
+------------------------------------------------------------------------------
+Serveur : serveurzinzin.hopto.org (exploité par nous).
+
+a) Au démarrage d'une partie : votre identifiant d'installation aléatoire.
+   Finalité : compter le nombre de parties jouées (statistiques,
+   amélioration du Jeu).
+b) À la fin d'une partie : identifiant d'installation, pseudo, score et
+   étage le plus haut atteint. Le serveur conserve, pour chaque installation et
+   chaque jour, votre meilleur score de la journée (avec pseudo et étage).
+   Finalité : afficher les meilleurs scores de tous les joueurs (du jour, du
+   mois, de tous les temps).
+c) À l'ouverture de l'écran Game Over : le Jeu demande au serveur les
+   meilleurs scores de tous les joueurs (score et pseudo).
+d) Comme pour toute requête internet, notre serveur reçoit votre adresse IP
+   et des informations techniques usuelles (date/heure, requête). Les
+   journaux du serveur servent uniquement à la sécurité et au dépannage.
+
+Important :
+- Le PSEUDO ET LE SCORE des détenteurs des meilleurs scores (du jour, du mois,
+  de tous les temps) sont affichés publiquement à tous les joueurs. N'utilisez pas votre vrai nom ni
+  d'information personnelle comme pseudo.
+- Les requêtes vers notre serveur sont actuellement envoyées en HTTP (non
+  chiffré). Les données concernées sont limitées (identifiant aléatoire,
+  pseudo, score) mais pourraient être observées sur un réseau non fiable.
+- Nous n'utilisons pas ces données pour la publicité, le profilage ou des
+  décisions automatisées. Nous ne les vendons pas.
+- Conservation : les statistiques sont conservées tant que le Jeu est
+  exploité ; les records tant qu'ils sont affichés ou utiles aux
+  statistiques. Vous pouvez demander la suppression à tout moment
+  (section 9).
+
+------------------------------------------------------------------------------
+4. PUBLICITÉ (GOOGLE ADMOB)
+------------------------------------------------------------------------------
+La version gratuite affiche deux types de publicités via Google AdMob
+(Google Mobile Ads SDK) : une publicité interstitielle après la perte d'une
+vie (au plus toutes les 2 minutes) et une publicité facultative avec
+récompense pour obtenir une vie supplémentaire. Aucune publicité n'est
+affichée une fois le déblocage acheté, et le SDK publicitaire n'est plus
+démarré au lancement.
+
+AdMob et Google peuvent collecter et utiliser, selon leurs propres
+politiques : votre identifiant publicitaire, adresse IP, informations sur
+l'appareil et l'application (modèle, version d'Android, langue), données
+d'interaction avec les annonces et de diagnostic, afin de diffuser, mesurer
+et sécuriser les annonces et de lutter contre la fraude.
+- Consentement : lorsque la loi l'exige (EEE, Royaume-Uni, Suisse), un
+  formulaire de consentement (Google User Messaging Platform) s'affiche au
+  lancement. Vous pouvez modifier votre choix via le bouton « Paramètres de
+  confidentialité » du menu principal lorsqu'il est proposé.
+- Personnalisation : vous pouvez réinitialiser votre identifiant publicitaire
+  ou refuser les annonces personnalisées dans Android : Paramètres >
+  Confidentialité > Annonces.
+- Plus d'informations : https://policies.google.com/technologies/ads et
+  https://policies.google.com/privacy
+
+------------------------------------------------------------------------------
+5. ACHAT INTÉGRÉ (GOOGLE PLAY BILLING)
+------------------------------------------------------------------------------
+L'achat unique « unlock_souricette » (vies illimitées, sans publicité) est
+traité par Google Play. Nous ne recevons ni ne conservons vos moyens de
+paiement. Le Jeu reçoit seulement de Google Play l'information que l'achat a
+été effectué (identifiant du produit et jeton d'achat) pour débloquer le jeu
+et le restaurer (« Restaurer les achats »).
+
+------------------------------------------------------------------------------
+6. NOTIFICATIONS, VIBRATIONS ET AUTRES FONCTIONS DE L'APPAREIL
+------------------------------------------------------------------------------
+- Notifications (Android 13+ demande votre autorisation) : rappels locaux
+  pour battre votre record, programmés 1 jour, 1 semaine et 2 semaines après
+  l'ouverture du Jeu (les délais repartent à chaque lancement). Ils sont
+  créés sur votre appareil, sans envoi de données. Ils ne s'affichent que
+  lorsque l'écran est allumé, pour ne pas vous réveiller la nuit. Vous
+  pouvez les désactiver dans Paramètres Android > Applications >
+  Souricette 1920 > Notifications.
+- Vibrations : retour haptique lorsque vous attrapez un fromage, pendant le
+  bonus turbo et lorsque vous perdez. Aucune donnée n'est collectée.
+- Accès réseau : nécessaire aux publicités, aux achats, aux statistiques et
+  aux meilleurs scores. Le Jeu reste jouable hors connexion, hors ces
+  fonctions.
+- Écran : il reste allumé tant que le Jeu est au premier plan.
+- Le Jeu n'accède pas à votre position, contacts, fichiers, photos, micro,
+  caméra ni SMS.
+
+------------------------------------------------------------------------------
+7. BASES LÉGALES (EEE / ROYAUME-UNI / SUISSE)
+------------------------------------------------------------------------------
+- Statistiques, meilleurs scores, sécurité du serveur : notre intérêt légitime
+  à exploiter et améliorer le Jeu (art. 6(1)(f) RGPD).
+- Publicités personnalisées et identifiant publicitaire : votre consentement
+  (art. 6(1)(a)), recueilli via le formulaire Google, retirable à tout moment.
+- Traitement de l'achat : exécution d'un contrat (art. 6(1)(b)), réalisée par
+  Google Play.
+
+------------------------------------------------------------------------------
+8. PARTAGE ET TRANSFERTS INTERNATIONAUX
+------------------------------------------------------------------------------
+Nous ne vendons pas vos données. Elles ne sont partagées qu'avec :
+- Google (AdMob, Google Play Billing, consentement UMP), comme décrit
+  ci-dessus ; Google peut traiter des données hors de votre pays, avec les
+  garanties décrites dans ses politiques.
+- Notre hébergeur, qui héberge le serveur.
+- Les autorités, si la loi l'exige.
+Le pseudo et le score des détenteurs des meilleurs scores sont visibles de tous
+les joueurs.
+
+------------------------------------------------------------------------------
+9. VOS DROITS ET CHOIX
+------------------------------------------------------------------------------
+Selon votre pays (RGPD, loi suisse, CCPA/CPRA, etc.), vous pouvez disposer
+d'un droit d'accès, de rectification, d'effacement, de limitation, de
+portabilité, d'opposition, de retrait du consentement, et d'introduire une
+réclamation auprès de votre autorité de protection des données (en France :
+la CNIL, www.cnil.fr).
+Pour les exercer, écrivez à [E-MAIL DE CONTACT] en indiquant votre pseudo et
+votre score. L'identifiant d'installation est aléatoire, n'est pas affiché
+dans l'application et n'est pas lié à votre identité : nous ne pouvons donc
+retrouver des données côté serveur qu'à partir du pseudo et du score que vous
+nous communiquez, et ne pouvons pas identifier des données que nous ne
+pouvons pas rattacher à vous.
+Nous ne « vendons » ni ne « partageons » d'informations personnelles au sens
+du CCPA. Les données locales s'effacent en vidant les données de l'application
+ou en la désinstallant.
+
+------------------------------------------------------------------------------
+10. ENFANTS
+------------------------------------------------------------------------------
+Le Jeu ne s'adresse pas aux enfants de moins de 13 ans (ou de moins de 16 ans
+lorsque la loi locale l'impose) et n'est pas conçu pour les familles. Nous ne
+collectons pas sciemment d'informations personnelles d'enfants. Si vous pensez
+qu'un enfant nous a fourni un pseudo ou d'autres données, contactez-nous et
+nous les supprimerons. Les publicités sont demandées sans traitement destiné
+aux enfants.
+
+------------------------------------------------------------------------------
+11. SÉCURITÉ
+------------------------------------------------------------------------------
+Nous limitons les données collectées et l'accès au serveur. Aucune
+transmission ni aucun stockage n'est sûr à 100 % ; en particulier, les
+requêtes vers notre serveur ne sont pas encore chiffrées (voir section 3).
+
+------------------------------------------------------------------------------
+12. MODIFICATIONS
+------------------------------------------------------------------------------
+Nous pouvons mettre à jour cette politique, par exemple si les fonctions
+évoluent. La date en tête indique la dernière version. Les changements
+importants seront annoncés dans la fiche du store ou dans l'application.
+
+------------------------------------------------------------------------------
+13. CONTACT
+------------------------------------------------------------------------------
+[NOM DE L'ÉDITEUR]
+[ADRESSE POSTALE - exigée par le store / le RGPD pour le responsable de
+traitement]
+[E-MAIL DE CONTACT]
